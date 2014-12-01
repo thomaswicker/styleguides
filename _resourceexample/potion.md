@@ -1,7 +1,7 @@
 ---
-title: getpotion.com
+title: Potion Framework - getpotion.com
 link: http://www.getpotion.com
-image: file name with extension
+image: getpotionscreenshot.jpg
 tags:
  - frontend
  - patterns
@@ -9,4 +9,4 @@ tags:
  - angularjs
 ---
 
-Potion is built it on top of SASS and utilizes AngularJS at the core for routing, creating custom DOM elements and more.
+Potion is built on top of SASS and utilizes AngularJS at the core for routing, creating custom DOM elements and more.
